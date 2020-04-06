@@ -1,0 +1,15 @@
+﻿  Raycaster.cpp
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(133): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(144): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(176): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(178): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(196): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(218): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(226): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(303): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(327): warning C4244: 'argument': conversion from 'float' to 'int32_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(328): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(329): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(330): warning C4244: '=': conversion from 'float' to 'uint8_t', possible loss of data
+d:\projects\c++\raycaster\raycaster\raycaster.cpp(344): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+  Raycaster.vcxproj -> D:\Projects\C++\Raycaster\Debug\Raycaster.exe
